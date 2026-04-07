@@ -5,10 +5,10 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: https://sourceforge.net/projects/mod-tcl/
 tags:
-- mod_tcl
-- Tcl
-- Apache
-- Web Server
+  - Apache
+  - Mod_tcl
+  - Tcl
+  - Web Server
 created: '2025'
 modified: '2026-03-16'
 specificationVersion: '0.19'
