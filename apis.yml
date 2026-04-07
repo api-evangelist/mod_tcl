@@ -1,5 +1,5 @@
 aid: mod_tcl
-name: mod_tcl
+name: Mod_tcl
 description: mod_tcl is an Apache HTTP Server module that embeds a Tcl interpreter into the Apache web server, enabling Tcl-based web application development and scripting within Apache.
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
